@@ -1,9 +1,4 @@
-/* An intrusive linked list data structure
- * Intrusive data structures are embedded inside of structs and eliminate the pointer chasing of the usual implementations */
-
-#include <stddef.h>
 #include <stdlib.h>
-#include <stdbool.h>
 #include "llist.h"
 
 llist* create_llist(){

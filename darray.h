@@ -3,6 +3,7 @@
  * the macros have bounds checks for insert and remove, but not for get and set.
  * multiline macros are wrapped in do while loops that execute once, so they can be put into blockless if statements, for, and while loops*/
 
+#pragma once
 #include <stdio.h>
 #include <stdlib.h>
 

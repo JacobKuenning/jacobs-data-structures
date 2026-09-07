@@ -1,3 +1,4 @@
+#pragma once
 #include <stddef.h>
 
 // finds the pointer to struct STRUCT_NAME that contains NODE_PTR as MEMBER
